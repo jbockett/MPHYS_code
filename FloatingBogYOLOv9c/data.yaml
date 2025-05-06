@@ -1,0 +1,6 @@
+train: C:/Users/Jamie Bockett/Documents/University/Physics/Year 4/PHYS498/DalnacardochModels/Original Image Models/FloatingBogYOLOv9c/train/
+test: C:/Users/Jamie Bockett/Documents/University/Physics/Year 4/PHYS498/DalnacardochModels/Original Image Models/FloatingBogYOLOv9c/test/
+val: C:/Users/Jamie Bockett/Documents/University/Physics/Year 4/PHYS498/DalnacardochModels/Original Image Models/FloatingBogYOLOv9c/val/
+
+nc: 1
+names: ['Deer']
